@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-human 
-=======
 human human 
->>>>>>> 0ff8a67de55a5bda2a212cf1ab89f72c00a2b378
+commit1
